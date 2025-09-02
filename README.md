@@ -53,10 +53,7 @@ cd movie-recommendation-system
 pip install -r requirements.txt
 jupyter notebook firstfile.ipynb
 
-📸 Screenshots (Optional)
 
-Add 1–2 screenshots of your notebook output or recommendation results.
-Example:
 
 
 📌 Future Improvements
